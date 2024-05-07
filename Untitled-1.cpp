@@ -5,4 +5,10 @@ int main(){
     cout << "akarmi" << endl;
 
     cout << endl;
+
+    cout << endl;
+    cout << endl;
+    cout << endl;
+    cout << endl;
+
 }
